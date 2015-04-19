@@ -1,0 +1,9 @@
+C:\gd\f\000084\RTFDogSoln\RtfDog2\bin\Release\RtfDog2.exe
+C:\gd\f\000084\RTFDogSoln\RtfDog2\bin\Release\RtfDog2.pdb
+C:\gd\f\000084\RTFDogSoln\RtfDog2\bin\Release\RtfDog2.xml
+C:\gd\f\000084\RTFDogSoln\RtfDog2\obj\x86\Release\RtfDog2.Form1.resources
+C:\gd\f\000084\RTFDogSoln\RtfDog2\obj\x86\Release\RtfDog2.Resources.resources
+C:\gd\f\000084\RTFDogSoln\RtfDog2\obj\x86\Release\RtfDog2.vbproj.GenerateResource.Cache
+C:\gd\f\000084\RTFDogSoln\RtfDog2\obj\x86\Release\RtfDog2.exe
+C:\gd\f\000084\RTFDogSoln\RtfDog2\obj\x86\Release\RtfDog2.xml
+C:\gd\f\000084\RTFDogSoln\RtfDog2\obj\x86\Release\RtfDog2.pdb
